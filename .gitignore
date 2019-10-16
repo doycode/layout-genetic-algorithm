@@ -24,9 +24,19 @@
 *.lai
 *.la
 *.a
-*.lib
+#*.lib  #需要opencv库，不能忽略
 
 # Executables
 *.exe
 *.out
 *.app
+
+#忽略文件夹
+/Layout_GA/x64/*  #编译过程中间文件夹
+/ipch/*
+/.vs/*
+
+#忽略文件
+*.sdf
+*.suo
+*.jpg
