@@ -7,6 +7,8 @@
 *.o
 *.obj
 
+*.iobj
+
 # Precompiled Headers
 *.gch
 *.pch
@@ -41,4 +43,5 @@
 *.suo
 *.jpg
 *.pdb
+*.ipdb
 *.ilk
