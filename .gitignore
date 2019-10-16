@@ -14,7 +14,7 @@
 # Compiled Dynamic libraries
 *.so
 *.dylib
-*.dll
+#*.dll #需要opencv相关dll，不能忽略
 
 # Fortran module files
 *.mod
@@ -40,3 +40,5 @@
 *.sdf
 *.suo
 *.jpg
+*.pdb
+*.ilk
