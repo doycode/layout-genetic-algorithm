@@ -7,11 +7,11 @@ Rectangular layout based on genetic algorithm. Below is the visualization result
 
 ## Prerequisites
 
-* [openCV](https://opencv.org/)
+* [OpenCV](https://opencv.org/)
 
 In this project, opencv is only used for result visualization and it is integrated into the project so you don't need to configure it anymore. If you have any other questions, feel free to contact me:
 
-* **[Email]**: [callmenone@elude.in](http://elude.in/) 
+* **Email**: [callmenone@elude.in](http://elude.in/) 
 
 
 
