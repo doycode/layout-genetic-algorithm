@@ -1,7 +1,7 @@
 # layout-genetic-algorithm
 Rectangular layout based on genetic algorithm. Below is the visualization result：
 
-![img](Layout_GA/resultImg/GA_RES7087.jpg)
+![img](Layout_GA/GA_RES7087.jpg)
 
 
 
